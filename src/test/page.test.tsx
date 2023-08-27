@@ -7,7 +7,7 @@ describe('<HomePage />', () => {
 
     expect(
       screen.getByText(
-        /Find in-depth information about Next.js features and API./i
+        /Montreal siempre estara alli en tus momentos mas felices./i
       )
     ).toBeInTheDocument();
   });
